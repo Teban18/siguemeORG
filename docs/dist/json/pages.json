@@ -34,25 +34,25 @@
         {
             "trigger":"#thirteenthtrigger",
             "container":"#diagramrotate",
-            "event":"mouseover",
+            "event":"click",
             "linkref":"./images/transaccion.html"
         },
         {
             "trigger":"#fourteenthtrigger",
             "container":"#diagramrotate",
-            "event":"mouseover",
+            "event":"click",
             "linkref":"./images/Gestionentidades.html"
         },
         {
             "trigger":"#fifteenthtrigger",
             "container":"#diagramrotate",
-            "event":"mouseover",
+            "event":"click",
             "linkref":"./images/trazable.html"
         },
         {
             "trigger":"#sixteenthtrigger",
             "container":"#smartcontractesteban",
-            "event":"mouseover",
+            "event":"click",
             "linkref":"./images/scesteban.html"
         }
     ]

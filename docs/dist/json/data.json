@@ -3,15 +3,15 @@
     [
         {
             "elementid":"pagetitle",
-            "text":"SCO"
+            "text":"Sigueme Doc"
         },
         {
             "elementid":"functional-title",
-            "text":"Obligaciones de SCO"
+            "text":"Manual de usuario"
         },
         {
             "elementid":"nonfunctional-title",
-            "text":"Aspectos técnicos"
+            "text":"Manual técnico"
         },
         {
             "elementid":"nonfunctional-subtitle1",
@@ -172,23 +172,19 @@
           },
           {
             "elementid":"diagrams-nav-list",
-            "text":"Diagramas SCO"
+            "text":"Diagramas Sigueme"
           },
           {
             "elementid":"formats-nav-list",
             "text":"Equipo SCO"
           },
           {
-            "elementid":"firsttrigger",
-            "text":"Que somos"
-          },
-          {
             "elementid":"secondtrigger",
-            "text":"Funcionales"
+            "text":"Manual de usuario"
           },
           {
             "elementid":"thirdtrigger",
-            "text":"Técnicos"
+            "text":"Manual técnico"
           },
           {
             "elementid":"tenthtrigger",
@@ -208,7 +204,7 @@
           },
           {
             "elementid":"siguemeorg-title",
-            "text":"SCO Documentación"
+            "text":"Sigueme Documentación"
           },
           {
             "elementid":"what",
